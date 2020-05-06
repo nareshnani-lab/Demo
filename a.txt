@@ -1,0 +1,6 @@
+if ( a= xlytwv01-pub)
+echo " Non Prod "
+else
+echo "Some thing else"
+
+fi
