@@ -1,0 +1,7 @@
+if ( a= xlythq01-pub)
+echo "  Prod "
+else
+echo "Some thing else"
+
+fi
+© 2020 GitHub, Inc.
